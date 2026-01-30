@@ -20,13 +20,9 @@ O objetivo deste aplicativo é oferecer uma maneira simples, visual e divertida 
 
 ## 📸 Screenshots
 
-<img src="assets//Users/wesleynogueira/Flutter/mega_sena/assets/home-screen.png" width="300" />
-
-<img src="assets//Users/wesleynogueira/Flutter/mega_sena/assets/sorted-screen.png" width="300" />
-
-| Tela Inicial | Sorteando | Resultado |
-|:---:|:---:|:---:|
-| <!-- Insira imagem aqui --> | <!-- Insira imagem aqui --> | <!-- Insira imagem aqui --> |
+| Tela Inicial | Sorteando |
+|:---:|:---:|
+| <img src="assets/home-screen.png" width="300" /> | <img src="assets/sorted-screen.png" width="300" /> |
 
 ## 🚀 Como Executar
 

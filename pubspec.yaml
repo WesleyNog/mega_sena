@@ -61,6 +61,8 @@ flutter:
   assets:
     - assets/megasena.png
     - assets/mega-sena-logo.png
+    - assets/home-screen.png
+    - assets/sorted-screen.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
